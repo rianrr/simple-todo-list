@@ -1,4 +1,4 @@
-# A simple TO-DO List (37:05)
+# A simple TO-DO List
 
 ## Made for studying purposes
 
